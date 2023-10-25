@@ -1,0 +1,21 @@
+{
+  "workbench.colorCustomizations": {
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#ffffff",
+    "titleBar.activeBackground": "#eeefff",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#eeefff99",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#eeefff",
+  "[python]": {
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+        "source.fixAll": true
+    },
+    "editor.defaultFormatter": "ms-python.black-formatter",
+  },
+  "ruff.organizeImports": false,
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black"
+}
